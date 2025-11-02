@@ -1,6 +1,6 @@
 JavaParser and Maven sample
 ---
-
+#REST
 This fully working sample Maven project parses and generates code with [JavaParser](http://www.javaparser.org).
 
 This sample is targeted at people without [Maven](https://maven.apache.org/) experience.
